@@ -1,0 +1,5 @@
+Bài 3 : cnp tim ket qua 
+    hàm check : so luong so la nsf < mid :
+	 res = số số là tích của lẻ snt^2 
+		 - số số là tích của chẵn snt^2
+	
